@@ -2,7 +2,7 @@
 
 I thrive on innovating secure and scalable solutions for digital identity, key management, encryption, and cloud services. 🌐🚀
 
-With extensive experience in hardware and software cryptography integration, I work to meet the highest standards and certifications like **FIPS 140**, **CSFC**, **Common Criteria**, and **IETF**. 🛡️
+With a strong background in integrating hardware and software cryptography, I focus on achieving the highest industry standards and certifications, including **FIPS 140**, **CSfC*, **Common Criteria**, and **IETF**. 🛡️
 
 ### 🔍 **Passionate About Solving Complex Problems with Cryptography**
 
